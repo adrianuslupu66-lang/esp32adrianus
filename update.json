@@ -1,5 +1,5 @@
 {
   "version": "1.3",
   "token": "ABC123XYZ", 
-  "firmware_url": "https://drive.google.com/file/d/1Z7xYSuNzEtOC8m7jNL1QRyXyhKLmZ5Z6/view?usp=sharing/update.Json"
+  "firmware_url": "https://raw.githubusercontent.com/adrianuslupu66-lang/esp32adrianus/main/update.Json"
 }
